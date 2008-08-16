@@ -1,0 +1,4 @@
+# publicly
+git clone git://github.com/amiroff/learning-git.git
+# my clone url	
+git clone git@github.com:amiroff/learning-git.git
