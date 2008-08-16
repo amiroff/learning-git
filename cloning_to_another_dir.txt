@@ -1,0 +1,2 @@
+# while in repo
+git clone . ../new_clone_name
