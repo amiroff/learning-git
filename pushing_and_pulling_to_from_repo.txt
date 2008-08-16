@@ -1,0 +1,2 @@
+git push # push local changes to remote
+git pull # get remote changes to local repo
