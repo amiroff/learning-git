@@ -1,1 +1,1 @@
-git checkout SHA1_HASH
+git checkout SHA1_HASH# Uncommitted changes travel in time with you when you run checkout.
