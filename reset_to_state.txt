@@ -1,0 +1,1 @@
+git reset --hard  SHA1_HASH_OF_STATE
