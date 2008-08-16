@@ -1,1 +1,1 @@
-git reset --hard
+git reset --hard # last commit is now HEAD
