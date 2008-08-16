@@ -1,0 +1,8 @@
+# between two versions
+git diff SHA1_HASH1 SHA1_HASH2
+
+# between now and yesterday
+git diff "@{yesterday}"
+
+# between a particular version and 2 versions ago
+git diff SHA1_HASH "@{2}"
