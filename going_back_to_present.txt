@@ -1,1 +1,1 @@
-git checkout master# Uncommitted changes travel in time with you when you run checkout.
+git checkout master
