@@ -1,3 +1,7 @@
-$  git  init
-$  git  add  .
-$  git  commit  -m  "My  first  backup"
+# on new project
+git  init
+git  add  .
+git  commit  -m  "My  first  backup"
+
+# if have modified files, but they are not yet added to index
+git commit -a -m "my update"

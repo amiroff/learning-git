@@ -3,7 +3,7 @@ git config --global user.email "amiroff@gmail.com"
 git config --global alias.co checkout
 git config --global alias.gb = git branch
 git config --global alias.gbb = git branch -b
-git config --global alias.gc = git commit -v
+git config --global alias.gc = git commit -a -v
 git config --global alias.gd = git diff
 git config --global alias.gl = git pull
 git config --global alias.gp = git push

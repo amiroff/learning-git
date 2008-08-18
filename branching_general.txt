@@ -1,5 +1,8 @@
-# see all available branches
+# see local branches
 git branch
+
+# see all available branches
+git branch -a
 
 # create a new branch from last commit
 git checkout -b new_feature
