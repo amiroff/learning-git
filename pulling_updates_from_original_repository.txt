@@ -1,0 +1,2 @@
+# in repo dir
+git pull origin master
