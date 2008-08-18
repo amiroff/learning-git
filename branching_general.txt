@@ -1,0 +1,20 @@
+# see all available branches
+git branch
+
+# create a new branch from last commit
+git checkout -b new_feature
+
+# create a new branch from a specific commit
+git checkout -b new_feature SHA1_HASH
+
+# switch to a branch
+git checkout branch_name
+
+# switch to master branch
+git checkout master
+
+# delete a branch
+git branch -d branch_name
+
+# merge changes from another branch to current branch
+git merge new_feature
