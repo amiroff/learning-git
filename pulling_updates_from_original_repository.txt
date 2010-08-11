@@ -1,2 +1,8 @@
 # in repo dir
 git pull origin master
+
+# or better (and safe) way:
+# fetch all remote repos and then merge:
+git fetch
+git merge origin/master
+
