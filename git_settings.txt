@@ -1,10 +1,26 @@
+# user info
 git config --global user.name "Metin Amiroff"
 git config --global user.email "amiroff@gmail.com"
+
+# common aliases
 git config --global alias.co checkout
 git config --global alias.gb = git branch
 git config --global alias.gbb = git branch -b
 git config --global alias.gc = git commit -a -v
+git config --global alias.ci = git commit
 git config --global alias.gd = git diff
 git config --global alias.gl = git pull
 git config --global alias.gp = git push
-git config --global alias.gst = git status
+git config --global alias.st = git status
+git config --global alias.unstage = git reset HEAD --
+git config --global alias.last = log -1 HEAD
+
+# other tools
+git config --global diff.tool meld
+git config --global merge.tool meld
+git config --global core.editor vim
+
+# colors
+git config --global color.status auto
+git config --global color.branch auto
+
